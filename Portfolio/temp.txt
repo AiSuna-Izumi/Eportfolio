@@ -1,0 +1,26 @@
+  <div class="smkSis2">
+                            <h4>STPM (1/5/2016 - 29/11/2017) </h4>
+                            <ul>
+                                <li>Obtained 3.56 CGPA</li>
+                                <li>Leader Media Project School</li>
+                                <li>Lead SMKSI TV</li>
+                                <li>Editor of SMKSI TV</li>
+                                <li>Editor Of SMKSI Website</li>
+                            </ul>
+                        </div>
+
+<button>
+                SKILL  
+                </button>
+
+                <button>
+                Basic Progamming  
+                </button>
+
+                <button>
+                    Data Struct
+                </button>
+
+                <div>
+                    OOP Java
+                </div>
